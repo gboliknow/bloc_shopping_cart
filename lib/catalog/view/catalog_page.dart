@@ -29,7 +29,7 @@ class CatalogPage extends StatelessWidget {
                 );
               }
               return const SliverFillRemaining(
-                child: Text('Something went wrong!'),
+                child: Text('Something went wrong'),
               );
             },
           ),
